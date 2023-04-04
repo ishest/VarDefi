@@ -6,7 +6,7 @@ import plotly.express as px
 import plotly.graph_objs as go
 
 
-st.set_page_config(page_title='HedgePie Fund Composition', layout='wide')
+st.set_page_config(page_title='VaR DeFi Fund Composition', layout='wide')
 
 # Custom CSS
 custom_css = """
